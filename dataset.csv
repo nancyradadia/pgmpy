@@ -1,0 +1,304 @@
+ParticipantNumber,TumorStage,Neighborhood,Alcohol,Smoke,Insomnia,Depression,Education,Sleep1,Sleep2,QOLp,QOLm,Arthritis,Insulin,CRP,PA,BMI,Age
+1,Stage 2,4,8.25,No,No,No,Postgraduate school or degree,44.2,38.7,86.875,93.25,No,6.620323463,14.66297014,248.6456873,29.3877551,53
+2,Stage 1,1,17,No,No,Yes,"Some college,  technical school or Associate Degree",51.2,43.6,76.25,81.625,Yes,6.588301752,15.08682358,241.9121482,28.398718,67
+3,Stage 1,2,25.5,No,No,No,Postgraduate school or degree,35.9,38.7,58.75,79.625,No,5.773662765,16.04597924,408.521245,20.07733492,54
+4,Stage 3,3,0,No,No,Yes,"Some college,  technical school or Associate Degree",56.3,52.9,26.875,37.95833333,No,6.898927726,16.31213599,177.6012668,26.83864765,66
+5,Stage 2,4,10.25,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",62.6,56.1,76.25,82.25,Yes,5.349780622,12.37666679,142.443154,37.16519287,50
+7,Stage 2,6,14.75,Yes,Yes,Yes,Graduated from  high school or G.E.D.,56.3,48.9,71.875,84.5,Yes,5.770813396,17.8804977,225.4195083,24.48979592,50
+8,Stage 2,6,17,Yes,No,Yes,Graduated from college (Bachelor's),45.5,41.4,81.875,92,Yes,5.564133022,13.39211509,261.3930261,29.38475666,55
+9,Stage 2,4,4.25,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",45.5,43.6,49.375,78.125,No,5.81588676,15.13229321,316.019211,26.12244898,72
+10,Stage 3,2,2,No,Yes,Yes,Postgraduate school or degree,54.3,50.3,42.5,69.625,No,7.021676761,16.07775975,196.0661867,31.61579284,58
+11,Stage 1,3,4,No,No,No,"Some college,  technical school or Associate Degree",39.8,35.1,80,79.125,No,5.443078959,15.61943455,528.4044691,24.56747405,60
+13,Stage 2,4,0,No,Yes,No,"Some college,  technical school or Associate Degree",66.1,55.1,31.875,39.875,No,6.1849791,16.04529049,139.1989235,26.57312925,58
+14,Stage 2,3,48.75,Yes,No,No,Graduated from college (Bachelor's),49,48.9,76.875,82.375,No,5.085955632,13.74393089,162.0995131,28.62147037,80
+15,Stage 2,2,2,Yes,Yes,Yes,Graduated from  high school or G.E.D.,61.5,64.3,56.875,33.54166667,No,6.334048359,16.482358,371.2916355,30.70040788,70
+16,Stage 3,3,0,No,No,No,Postgraduate school or degree,45.5,35.1,62.5,83.5,No,5.70210014,14.16999315,289.0913528,26.56434475,67
+17,Stage 1,1,0,Yes,No,No,Completed some high school but did not graduate,35.9,35.1,80.625,81.75,Yes,6.379881016,14.89444171,321.1069149,26.2226847,66
+18,Stage 1,1,2,Yes,No,No,Postgraduate school or degree,42.9,35.1,88.125,85.625,Yes,6.81856137,13.9400989,182.430935,29.04370899,59
+19,Stage 1,2,14.75,Yes,No,No,"Some college,  technical school or Associate Degree",45.5,30,80.625,91.75,Yes,6.067323019,15.13164501,281.7508472,23.80869017,41
+20,Stage 1,3,27.375,Yes,No,Yes,"Some college,  technical school or Associate Degree",53.3,43.6,71.25,86.25,No,5.569332867,15.67131667,347.4685239,22.76146754,68
+21,Stage 1,5,2,No,No,No,Postgraduate school or degree,38,35.1,55.625,74.375,No,5.761408877,17.06624868,403.4688027,33.49768527,60
+22,Stage 1,0,0,No,No,Yes,Postgraduate school or degree,57.3,60.3,75.625,50.33333333,No,5.971626422,14.69689082,237.329053,32,65
+23,Stage 2,3,4,No,Yes,Yes,"Some college,  technical school or Associate Degree",56.3,51.6,46.25,77.25,Yes,7.10929703,16.74791537,251.9235658,29.06574394,47
+24,Stage 1,3,6,No,No,No,Postgraduate school or degree,52.2,47.3,86.875,80.75,No,6.191480163,14.24589806,248.1106784,39.03337573,66
+25,Stage 1,6,79,Yes,Yes,No,"Some college,  technical school or Associate Degree",60.4,52.9,70,83.625,Yes,5.882210185,15.58573873,425.7379462,25.95155709,66
+26,Stage 2,4,25.5,No,No,No,"Some college,  technical school or Associate Degree",38,35.1,76.25,94,No,5.701830458,13.81879529,170.8964006,25.46198063,72
+27,Stage 1,5,0,Yes,No,Yes,"Some college,  technical school or Associate Degree",28.9,38.7,85,87.625,No,5.426721125,15.79602899,283.1098885,24.5389649,50
+29,Stage 1,4,16.75,No,No,Yes,Postgraduate school or degree,53.3,38.7,43.125,83.875,Yes,6.221500712,15.38454028,263.133199,27.51338489,65
+30,Stage 1,3,50.875,No,No,Yes,"Some college,  technical school or Associate Degree",46.7,41.4,77.5,88.75,No,6.070754961,15.86079957,294.3770192,24.39105884,56
+31,Stage 2,6,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",54.3,55.1,42.5,48.95833333,Yes,5.484056145,13.78829525,220.9087342,29.75206612,50
+32,Stage 1,3,4.25,No,No,No,Graduated from college (Bachelor's),33.1,30,95.625,95.25,No,5.248417735,15.00657143,462.3070267,23.28341855,80
+33,Stage 2,4,60,Yes,No,No,Graduated from college (Bachelor's),52.2,38.7,79.375,93,No,6.306919632,14.28685686,337.0529918,27.11111111,65
+34,Stage 2,0,0,No,Yes,Yes,"Some college,  technical school or Associate Degree",54.3,41.4,83.75,87.625,No,5.655022256,14.45752673,164.9274683,30.81854043,59
+35,Stage 1,5,14.75,No,Yes,Yes,Postgraduate school or degree,54.3,50.3,59.375,63.625,No,5.54986788,14.94217967,296.2193992,22.83950617,52
+36,Stage 2,4,4,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",55.3,48.9,68.125,72.54166667,Yes,5.584800956,14.91106835,300.7782295,33.77777778,55
+37,Stage 2,2,19,No,Yes,Yes,"Some college,  technical school or Associate Degree",66.1,54,71.875,64.79166667,No,6.469145475,17.08680961,176.1525562,26.0932752,60
+38,Stage 2,0,0,Yes,Yes,No,Postgraduate school or degree,56.3,52.9,63.75,73.66666667,No,5.980727659,15.52362975,160.4131374,28.68514468,55
+39,Stage 1,6,12.75,No,No,Yes,Completed some high school but did not graduate,49,45.5,69.375,87,Yes,5.553336998,13.29155127,505.2398678,32.03895937,47
+40,Stage 1,4,25.375,Yes,Yes,No,Graduated from college (Bachelor's),59.4,52.9,79.375,88.5,Yes,6.607870241,13.92179274,544.1069248,27.76709812,69
+41,Stage 2,1,4,No,No,No,Graduated from college (Bachelor's),54.3,43.6,58.75,76.25,Yes,6.249548617,15.73382552,231.1849448,28.1969212,54
+42,Stage 1,5,14.75,No,No,No,Postgraduate school or degree,51.2,52.9,61.875,79.625,No,5.7135293,13.76368751,379.625569,21.07719523,76
+45,Stage 3,0,12.75,Yes,No,Yes,Postgraduate school or degree,47.9,56.1,29.375,70.75,Yes,5.580266747,14.92830687,138.7300949,26.12244898,46
+46,Stage 3,4,0,No,Yes,Yes,Postgraduate school or degree,64.9,64.3,38.125,14.625,Yes,7.084598469,14.31168893,223.1361171,25.7255174,76
+47,Stage 1,0,92,No,No,Yes,Graduated from college (Bachelor's),49,45.5,46.875,58.08333333,Yes,7.363322886,16.26870595,215.8439763,27.70083102,40
+48,Stage 1,5,4.25,No,No,Yes,Postgraduate school or degree,45.5,35.1,63.75,85.5,Yes,5.329077724,12.59767135,219.9235993,33.3318319,43
+49,Stage 1,0,0,No,Yes,No,Graduated from  high school or G.E.D.,55.3,50.3,66.875,88.5,No,6.258916683,14.24799583,322.5775071,29.38475666,60
+50,Stage 1,1,21,No,No,No,"Some college,  technical school or Associate Degree",38,43.6,82.5,81.25,No,6.930935955,13.66675567,205.1662298,25.10956903,73
+51,Stage 2,3,25.5,Yes,No,No,"Some college,  technical school or Associate Degree",41.4,35.1,96.875,92.25,No,6.378374638,13.66611748,219.5239906,24.62296091,51
+52,Stage 2,1,152,Yes,No,No,Graduated from college (Bachelor's),52.2,43.6,85.625,85.75,Yes,6.188596079,14.30514296,559.987059,30.86300683,57
+53,Stage 2,1,25.5,Yes,No,Yes,"Some college,  technical school or Associate Degree",47.9,43.6,60.625,62.91666667,No,5.944997066,16.57573075,273.8941262,25.51020408,68
+55,Stage 2,6,0,No,No,No,Graduated from college (Bachelor's),28.9,35.1,90.625,93.125,Yes,6.73703331,16.38905337,272.7185198,25.72103221,53
+56,Stage 1,3,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",56.3,51.6,66.875,82.25,Yes,5.777686441,16.38648305,182.1855098,26.6727633,61
+57,Stage 2,4,2,No,No,Yes,"Some college,  technical school or Associate Degree",28.9,30,50,92.375,Yes,6.069446026,14.54455842,415.3213056,29.35752192,73
+58,Stage 3,1,12.75,No,No,No,Postgraduate school or degree,44.2,30,70,87.25,No,5.697578985,16.0661008,347.5946242,25.390625,55
+59,Stage 1,3,12.75,Yes,No,No,Graduated from college (Bachelor's),41.4,35.1,45,77,Yes,6.034083499,14.42136804,134.0727155,22.76943835,73
+60,Stage 3,3,6,No,No,No,Postgraduate school or degree,55.3,43.6,72.5,64.875,No,6.788523929,16.29011274,582.9095745,25.68956193,48
+61,Stage 3,3,135,No,Yes,Yes,Postgraduate school or degree,62.6,50.3,50.625,51,Yes,6.040591532,14.9883002,231.6705715,24.67702134,56
+62,Stage 1,5,0,No,No,No,Graduated from  high school or G.E.D.,51.2,51.6,61.875,47,Yes,6.350582025,14.39778223,317.800103,27.6816609,53
+64,Stage 2,1,2,Yes,No,No,"Some college,  technical school or Associate Degree",39.8,43.6,96.875,95.5,No,5.771827587,14.50787552,266.6791565,27.33564014,65
+65,Stage 1,0,31.5,No,No,No,Postgraduate school or degree,38,43.6,80,88.25,No,5.898841068,13.91228116,297.5721824,24.5389649,70
+67,Stage 1,2,27.5,Yes,No,No,"Some college,  technical school or Associate Degree",56.3,58.2,66.25,77.25,Yes,5.71944611,14.2379609,436.0652516,22.40587695,81
+68,Stage 3,4,31.5,Yes,No,No,Graduated from college (Bachelor's),28.9,38.7,84.375,90.25,No,5.851961344,13.43372873,267.9886213,21.09375,56
+69,Stage 2,3,4,No,No,No,Postgraduate school or degree,35.9,35.1,94.375,96.25,Yes,6.107104569,15.16964175,370.2257785,23.93948099,47
+70,Stage 1,4,0,No,No,No,"Some college,  technical school or Associate Degree",52.2,47.3,83.75,91.75,No,6.317833549,14.57598637,160.1099749,22.32142857,47
+71,Stage 2,3,2,Yes,No,No,Postgraduate school or degree,50.1,43.6,40.625,81.875,Yes,6.126667618,16.4126435,281.730787,35.83266147,41
+72,Stage 1,3,16.75,Yes,No,No,Postgraduate school or degree,41.4,30,88.125,88.5,Yes,6.642786546,15.4488388,360.4022172,34.80874965,68
+73,Stage 3,2,2,Yes,Yes,No,"Some college,  technical school or Associate Degree",63.7,56.1,48.75,79.75,Yes,7.065898637,14.81011806,214.0390261,29.41176471,55
+74,Stage 2,3,0,No,No,No,Postgraduate school or degree,50.1,59.3,38.125,70.375,Yes,5.404982478,14.70258329,175.57622,31.18458712,53
+75,Stage 2,3,6.25,No,No,Yes,Postgraduate school or degree,52.2,55.1,44.375,31.875,No,5.812173353,12.12517176,135.5855841,30.83289383,53
+76,Stage 1,2,14.75,Yes,Yes,No,"Some college,  technical school or Associate Degree",66.1,56.1,41.25,72.25,Yes,6.401433336,15.88755229,186.7677419,24.8015873,30
+77,Stage 3,0,14.75,No,Yes,No,Graduated from college (Bachelor's),54.3,45.5,82.5,93.125,No,5.81681883,15.44561708,464.4477768,19.05197378,47
+79,Stage 2,5,4,No,No,No,Graduated from college (Bachelor's),42.9,35.1,83.75,91,Yes,6.090758738,15.19373858,195.6728338,24.03440715,80
+80,Stage 2,2,4,Yes,No,No,Postgraduate school or degree,49,52.9,53.125,64,Yes,5.747711795,17.68837643,199.4360326,26.6727633,52
+81,Stage 1,1,0,Yes,Yes,No,"Some college,  technical school or Associate Degree",54.3,56.1,51.25,42.375,No,6.170350592,15.45282999,254.6028497,18.93877551,62
+82,Stage 2,5,0,No,Yes,No,Postgraduate school or degree,55.3,50.3,86.25,88.25,No,5.781762437,14.82795667,268.0157156,28.62879239,55
+83,Stage 1,2,0,Yes,No,No,"Some college,  technical school or Associate Degree",42.9,54,50,66.79166667,Yes,7.190551782,14.30320141,110.3032692,29.05328798,60
+84,Stage 1,4,0,No,Yes,No,Graduated from college (Bachelor's),63.7,63.3,36.25,61.66666667,Yes,6.707127372,16.91528075,192.5625,25.5588462,60
+85,Stage 1,2,4,No,Yes,Yes,"Some college,  technical school or Associate Degree",63.7,65.3,46.25,68.41666667,No,6.743645902,14.76832592,161.6454594,25.40281608,49
+87,Stage 1,4,17,No,No,No,Graduated from college (Bachelor's),57.3,50.3,86.25,79.625,Yes,5.900413085,15.68299644,260.4865183,34.66666667,70
+88,Stage 1,6,2,Yes,No,Yes,Postgraduate school or degree,45.5,38.7,89.375,60.29166667,Yes,5.710917684,13.82736408,416.0853576,28.93518519,70
+89,Stage 2,5,14.75,No,No,No,Postgraduate school or degree,33.1,41.4,96.875,91,No,5.290768127,16.04014317,227.8129987,21.77755334,66
+90,Stage 1,3,4,No,No,No,"Some college,  technical school or Associate Degree",60.4,51.6,65.625,72.04166667,No,6.445451868,15.91664887,234.6069391,25.99090318,52
+91,Stage 1,4,0,No,Yes,Yes,Graduated from college (Bachelor's),70.8,55.1,60.625,69.66666667,Yes,6.677506761,13.27417733,308.0815664,24.72452001,65
+92,Stage 3,4,0,No,Yes,Yes,"Some college,  technical school or Associate Degree",58.3,47.3,61.25,55.45833333,Yes,7.533145453,14.71450282,276.9680693,26.29757785,55
+93,Stage 2,5,8,Yes,No,Yes,Postgraduate school or degree,47.9,52.9,48.125,53.58333333,Yes,6.491288951,13.02178053,329.7753083,24.38652644,86
+94,Stage 2,2,29.5,No,No,Yes,Postgraduate school or degree,42.9,45.5,66.875,70.16666667,No,5.686086568,13.39863753,240.7213009,33.78226206,57
+95,Stage 1,6,30,Yes,Yes,Yes,Graduated from  high school or G.E.D.,59.4,64.3,70,65.33333333,No,5.875124589,16.02817468,206.5072653,38.28125,52
+96,Stage 1,1,4,Yes,No,No,Graduated from  high school or G.E.D.,47.9,47.3,81.25,81.625,Yes,5.968163193,15.68936975,215.3082556,23.03004535,59
+97,Stage 1,2,0,Yes,No,Yes,"Some college,  technical school or Associate Degree",45.5,48.9,56.25,46.83333333,No,5.739491364,15.61604839,155.4314258,32.1799308,75
+98,Stage 1,1,0,No,No,No,"Some college,  technical school or Associate Degree",38,38.7,73.75,84.375,Yes,6.540507975,14.91424646,427.3228298,27.91551882,81
+99,Stage 1,5,23.375,Yes,Yes,No,Postgraduate school or degree,56.3,41.4,90.625,92,No,6.105985533,14.22440518,338.2101279,32.39390994,71
+100,Stage 1,4,18.75,Yes,No,No,"Some college,  technical school or Associate Degree",46.7,51.6,80,83.5,No,6.502817815,13.42656751,269.1753983,23.25501864,63
+102,Stage 3,0,2,No,Yes,No,Postgraduate school or degree,58.3,51.6,43.75,63.91666667,Yes,5.956044662,13.91688541,166.877642,26.7755102,56
+103,Stage 2,6,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",55.3,54,80.625,88.75,Yes,6.195125064,12.72013278,202.5672642,22.64086462,65
+104,Stage 2,4,25.5,No,Yes,No,Postgraduate school or degree,67.5,43.6,50,38.95833333,Yes,6.399499376,14.14874824,359.2092352,26.57312925,59
+105,Stage 1,4,6,No,No,No,Postgraduate school or degree,52.2,47.3,69.375,76.16666667,Yes,7.523838651,16.43270635,187.6163426,26.81359045,65
+106,Stage 1,4,23.25,Yes,Yes,No,"Some college,  technical school or Associate Degree",51.2,38.7,78.75,84.25,No,6.114599795,15.41249753,154.7135825,27.77427093,50
+107,Stage 1,6,0,Yes,Yes,Yes,Graduated from  high school or G.E.D.,69,58.2,56.875,84.5,Yes,5.678530517,16.32735669,142.1735697,21.88707637,48
+108,Stage 3,3,0,No,Yes,No,Postgraduate school or degree,54.3,55.1,50.625,48.08333333,No,5.837350433,12.75423125,321.287913,24.8015873,66
+109,Stage 1,3,0,No,No,Yes,Graduated from college (Bachelor's),58.3,56.1,36.25,28.5,Yes,5.303633119,14.87049576,365.9647362,21.97133586,77
+110,Stage 1,2,14.75,Yes,No,No,"Some college,  technical school or Associate Degree",56.3,52.9,80,92.75,Yes,5.716426143,15.78635276,159.5740716,24.8015873,65
+111,Stage 2,3,27.5,No,No,No,"Some college,  technical school or Associate Degree",33.1,38.7,77.5,88.875,Yes,5.961930385,14.07717026,294.7077571,22.43230252,61
+112,Stage 2,4,27.375,No,No,Yes,"Some college,  technical school or Associate Degree",53.3,58.2,71.25,53.54166667,No,5.521999388,15.62381745,223.2253907,23.30109483,76
+113,Stage 3,4,0,No,Yes,Yes,Postgraduate school or degree,50.1,45.5,42.5,90.5,Yes,7.947153431,13.78142921,141.7962626,23.183391,75
+114,Stage 1,4,171.25,Yes,No,No,Graduated from college (Bachelor's),56.3,41.4,66.25,80.375,No,5.832195908,15.57927614,401.2638735,29.74580855,56
+115,Stage 1,3,6,Yes,Yes,No,Postgraduate school or degree,51.2,45.5,88.125,93,No,5.476550873,14.0931247,215.825262,26.83518006,60
+116,Stage 1,5,29.75,No,No,Yes,"Some college,  technical school or Associate Degree",52.2,48.9,79.375,85.625,Yes,5.608704009,15.3061137,425.3730645,28.40550436,48
+118,Stage 3,3,19,No,Yes,Yes,Graduated from college (Bachelor's),57.3,47.3,81.875,90,Yes,6.139428247,15.31952481,233.2372656,35.15625,49
+119,Stage 1,6,8.25,Yes,No,Yes,Graduated from college (Bachelor's),49,45.5,55.625,44.875,Yes,6.267917788,17.14800502,154.1693247,24.67105263,69
+120,Stage 2,4,0,No,Yes,No,Postgraduate school or degree,59.4,48.9,33.125,75.5,No,6.658194284,13.96187997,239.6980776,27.12031558,75
+121,Stage 2,3,25.5,Yes,No,No,Graduated from college (Bachelor's),41.4,45.5,70.625,88.25,Yes,5.764221358,15.98404117,245.2628474,22.67573696,60
+122,Stage 2,3,0,No,No,No,"Some college,  technical school or Associate Degree",50.1,38.7,83.125,76.16666667,No,6.71694063,14.38842313,373.5655832,34.17489,64
+123,Stage 1,0,44.75,No,No,No,Postgraduate school or degree,53.3,45.5,82.5,96.25,Yes,5.833238817,14.75146783,250.346228,28.66889244,48
+124,Stage 3,2,6.25,No,No,No,"Some college,  technical school or Associate Degree",53.3,43.6,73.125,88,No,5.614359406,15.05342648,319.4810127,27.18089991,81
+125,Stage 2,2,2,No,No,No,Postgraduate school or degree,28.9,38.7,78.75,92.75,Yes,6.362099278,16.49004522,487.7469686,25.39343112,65
+126,Stage 1,6,31.75,No,Yes,Yes,Postgraduate school or degree,57.3,45.5,90.625,68.125,Yes,5.485673836,16.50278023,299.9312585,27.6816609,51
+127,Stage 1,6,12.75,No,Yes,No,Graduated from  high school or G.E.D.,61.5,48.9,81.25,79.75,No,5.521695822,13.89992863,415.4112121,28.69897959,59
+128,Stage 3,3,19,No,Yes,Yes,Graduated from college (Bachelor's),54.3,45.5,82.5,87.875,No,5.583480443,13.96318017,467.6412184,25.95155709,59
+129,Stage 2,3,85.5,Yes,No,No,"Some college,  technical school or Associate Degree",39.8,30,83.75,94.25,Yes,6.008810398,13.55955585,434.0929841,18.36547291,55
+130,Stage 1,4,186.25,Yes,No,Yes,"Some college,  technical school or Associate Degree",55.3,45.5,83.125,85.5,No,6.242923774,16.0760989,377.2174954,29.36576335,66
+131,Stage 3,1,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",56.3,65.3,26.875,31.45833333,Yes,5.775860738,14.36785147,567.675706,31.25,49
+132,Stage 1,4,17,Yes,No,No,"Some college,  technical school or Associate Degree",57.3,50.3,80.625,84.25,Yes,5.845001939,14.65686844,428.1803677,26.57312925,56
+133,Stage 1,0,2,No,No,Yes,Graduated from college (Bachelor's),52.2,58.2,42.5,31,Yes,6.724527932,13.2519182,308.4431074,24.11150746,63
+134,Stage 2,5,0,No,Yes,Yes,Postgraduate school or degree,58.3,57.2,50.625,69.875,Yes,7.150211764,16.07973071,275.833202,23.828125,74
+135,Stage 2,3,6,No,No,No,Graduated from college (Bachelor's),47.9,35.1,45.625,76.25,Yes,6.202329448,15.5076838,160.9333805,27.77691083,70
+136,Stage 1,4,0,No,No,No,"Some college,  technical school or Associate Degree",39.8,35.1,57.5,74.91666667,Yes,6.028078406,13.78679156,253.4000799,25.31545429,76
+137,Stage 2,4,4.25,No,No,No,"Some college,  technical school or Associate Degree",49,41.4,86.875,85.125,No,6.826668811,14.40809613,278.1780047,22.03856749,36
+139,Stage 1,3,27.375,No,No,No,Postgraduate school or degree,42.9,47.3,80.625,89.875,Yes,5.90122363,15.48584531,305.328764,19.25702882,52
+140,Stage 1,4,0,No,No,Yes,Postgraduate school or degree,41.4,48.9,40,42,Yes,6.763082946,16.11612423,170.1770115,24.65303141,72
+141,Stage 3,4,4,No,No,No,"Some college,  technical school or Associate Degree",54.3,45.5,67.5,82.41666667,No,6.195989568,15.52450342,271.0572251,24.609375,79
+142,Stage 2,0,81.25,Yes,No,Yes,Postgraduate school or degree,47.9,55.1,60.625,85,Yes,6.23153048,14.22876977,253.7482047,34.78073793,62
+143,Stage 2,4,0,Yes,No,Yes,Graduated from college (Bachelor's),41.4,41.4,86.25,87.75,No,5.841196266,15.77127336,206.1714933,22.03856749,55
+144,Stage 2,3,29.5,Yes,No,No,Postgraduate school or degree,54.3,41.4,83.75,81.75,Yes,6.489827289,16.81122986,356.999145,24.21229339,45
+145,Stage 1,2,2,No,No,No,Graduated from college (Bachelor's),33.1,30,86.875,95.5,Yes,5.948627265,15.68569305,163.1126043,24.02127599,55
+146,Stage 1,1,0,No,No,No,Graduated from college (Bachelor's),47.9,48.9,81.875,63.83333333,No,7.321579002,14.19519138,218.1189717,26.98961938,49
+147,Stage 2,5,8.25,No,Yes,Yes,"Some college,  technical school or Associate Degree",51.2,61.3,25,21.625,Yes,6.382662355,14.90233642,163.5308387,31.14186851,48
+148,Stage 2,3,0,Yes,No,Yes,Graduated from college (Bachelor's),52.2,47.3,74.375,81.75,Yes,6.91910344,16.12807981,172.6146728,28.515625,50
+149,Stage 2,3,0,Yes,No,No,Graduated from  high school or G.E.D.,49,30,89.375,94.25,Yes,6.884803288,15.37432105,398.1283394,30.48668503,60
+150,Stage 1,1,75,No,No,No,Postgraduate school or degree,47.9,41.4,68.75,85.75,Yes,5.442150313,16.11469141,219.1159634,24.43518667,50
+151,Stage 1,1,2,No,No,Yes,"Some college,  technical school or Associate Degree",47.9,61.3,79.375,56.91666667,No,6.179981911,13.79098348,434.9094234,24.04934359,43
+152,Stage 2,3,0,Yes,No,Yes,Postgraduate school or degree,50.1,51.6,24.375,56.54166667,Yes,6.558376885,16.38436482,186.0060521,21.30681818,51
+153,Stage 1,3,4.25,Yes,No,No,Graduated from  high school or G.E.D.,51.2,55.1,30,46,No,7.22735016,15.53792365,180.3419307,19.81767737,80
+154,Stage 1,3,0,Yes,No,Yes,Postgraduate school or degree,47.9,43.6,65,86.75,Yes,6.861976924,16.15281385,202.1721568,27.54820937,47
+155,Stage 1,3,27.375,No,No,No,"Some college,  technical school or Associate Degree",44.2,30,76.25,79.54166667,No,5.695163988,13.71424684,273.7343402,31.11111111,46
+156,Stage 2,2,0,No,Yes,Yes,Graduated from college (Bachelor's),45.5,43.6,93.125,90.25,No,7.167722334,13.37668294,93.40501736,26.2226847,53
+157,Stage 2,2,4,Yes,Yes,Yes,Postgraduate school or degree,54.3,57.2,50,74,Yes,6.609060184,15.79963572,155.8221507,28.44444444,52
+158,Stage 1,2,2,No,Yes,Yes,"Some college,  technical school or Associate Degree",62.6,66.3,70,59.58333333,No,6.085788937,14.69641841,118.7836338,26.29656684,44
+159,Stage 3,5,0,No,No,No,"Some college,  technical school or Associate Degree",50.1,52.9,71.875,86,No,6.272846995,15.95325504,219.5760942,21.484375,71
+160,Stage 3,3,8,No,Yes,Yes,Graduated from college (Bachelor's),63.7,57.2,63.75,73.29166667,Yes,6.656921971,14.5139717,330.3141416,27.42857143,63
+161,Stage 2,6,6.25,No,No,No,"Some college,  technical school or Associate Degree",63.7,55.1,55.625,75.41666667,Yes,5.953568007,15.51612936,180.2054153,26.7755102,45
+162,Stage 1,2,0,Yes,No,No,"Some college,  technical school or Associate Degree",44.2,35.1,65.625,71.29166667,Yes,5.856706695,15.18564248,289.0665162,26.44628099,70
+163,Stage 2,6,0,No,No,Yes,Graduated from college (Bachelor's),53.3,51.6,33.125,42.25,Yes,6.118760417,14.0274489,216.4637236,24.34175829,71
+164,Stage 1,1,19,Yes,No,No,Graduated from college (Bachelor's),56.3,41.4,59.375,54.54166667,No,7.066727138,14.98232027,202.6188219,30.05681068,42
+165,Stage 1,2,75,No,No,Yes,Graduated from  high school or G.E.D.,45.5,38.7,94.375,91.25,Yes,6.874022185,13.49829296,276.2696331,32.8731098,62
+166,Stage 1,2,2,Yes,Yes,No,"Some college,  technical school or Associate Degree",47.9,35.1,89.375,88.75,Yes,6.21057207,15.35984087,265.0948132,33.32051775,65
+167,Stage 3,6,2,Yes,No,No,Graduated from college (Bachelor's),38,41.4,70.625,88.5,No,6.255660557,14.88450687,419.2523576,25,63
+168,Stage 1,5,0,No,No,No,Postgraduate school or degree,38,43.6,45.625,87.5,Yes,6.886632606,15.65096101,129.3308305,28.37370242,60
+169,Stage 3,4,104.375,No,No,No,Graduated from college (Bachelor's),59.4,50.3,75.625,82,No,5.844267279,14.39252504,261.4424552,30.47052154,58
+171,Stage 3,3,0,No,No,No,Postgraduate school or degree,46.7,55.1,59.375,72.75,No,6.770934581,15.64328046,206.7258562,27.88761707,67
+172,Stage 1,1,4.25,No,Yes,No,Postgraduate school or degree,54.3,50.3,40.625,44.83333333,Yes,6.546982138,15.38029551,217.4197288,30.42296786,57
+173,Stage 1,4,0,Yes,No,No,"Some college,  technical school or Associate Degree",54.3,45.5,83.125,82.875,Yes,6.792679966,10.9316246,109.7501192,21.38593635,62
+174,Stage 1,5,40.375,Yes,No,No,"Some college,  technical school or Associate Degree",42.9,45.5,46.25,73.25,Yes,6.675134617,15.18014782,130.518512,19.03114187,70
+175,Stage 1,4,4,Yes,No,Yes,Postgraduate school or degree,45.5,45.5,88.125,88.25,Yes,6.282291883,13.99740105,150.7695786,27.30996814,63
+176,Stage 1,5,4,No,No,No,"Some college,  technical school or Associate Degree",46.7,48.9,68.75,72.75,Yes,5.745671965,14.86871325,328.1582211,32.03895937,72
+177,Stage 1,5,77,Yes,No,Yes,Postgraduate school or degree,42.9,45.5,80.625,90.75,No,6.672458092,14.85756374,242.173796,20.23950076,68
+178,Stage 1,0,4,Yes,No,No,Postgraduate school or degree,38,38.7,91.875,91.75,No,6.191416708,14.16166331,129.460429,22.20408163,72
+179,Stage 2,4,0,No,No,No,Graduated from college (Bachelor's),45.5,48.9,79.375,70.375,No,6.328248069,15.55372689,496.4002155,31.17913832,74
+180,Stage 1,3,0,Yes,No,No,"Some college,  technical school or Associate Degree",55.3,57.2,49.375,66.875,Yes,5.982878146,15.45682342,273.2785741,28.44444444,70
+181,Stage 3,4,212,Yes,No,No,"Some college,  technical school or Associate Degree",57.3,43.6,73.75,37.125,No,6.104778852,14.7287935,266.5931498,35.05886427,50
+182,Stage 2,5,0,No,No,Yes,Graduated from college (Bachelor's),63.7,59.3,53.125,49.58333333,Yes,6.11783956,15.40949039,444.3013533,27.34375,42
+183,Stage 3,0,6,Yes,Yes,No,Graduated from college (Bachelor's),53.3,65.3,76.25,78.5,No,5.856032528,14.47121408,392.4047265,19.53125,50
+184,Stage 2,4,6,Yes,No,No,"Some college,  technical school or Associate Degree",45.5,35.1,85.625,87,No,5.965316956,14.9527491,237.2276524,25.29937595,44
+185,Stage 1,5,36.125,No,Yes,Yes,"Some college,  technical school or Associate Degree",55.3,48.9,70,78.5,Yes,5.867128706,15.72064791,101.0507283,37.37024221,43
+186,Stage 2,5,0,Yes,No,No,Postgraduate school or degree,42.9,41.4,58.125,90,Yes,6.653480428,15.06744026,401.4859601,28.515625,50
+187,Stage 1,2,0,No,Yes,Yes,"Some college,  technical school or Associate Degree",51.2,50.3,78.125,79.875,Yes,5.759260087,12.75007092,175.2591687,34.24499051,62
+188,Stage 1,2,4,No,No,Yes,"Some college,  technical school or Associate Degree",53.3,54,51.875,48.25,Yes,6.515171882,14.59663446,207.4694986,26.66666667,68
+189,Stage 1,3,29.5,Yes,No,No,Graduated from college (Bachelor's),45.5,38.7,90.625,88.25,Yes,5.599858157,16.02706166,339.4769181,28.73469388,63
+190,Stage 1,3,0,No,Yes,No,Postgraduate school or degree,57.3,50.3,60.625,46.25,Yes,6.249710184,16.76286238,171.7678877,34.08660523,53
+191,Stage 2,3,4.25,Yes,No,No,Graduated from  high school or G.E.D.,47.9,45.5,68.75,77.625,Yes,6.855940372,15.01851702,148.3229258,30.46111831,48
+192,Stage 2,2,4,Yes,Yes,No,"Some college,  technical school or Associate Degree",66.1,61.3,50.625,64.41666667,Yes,6.79652728,17.0266426,210.835654,21.97735112,74
+193,Stage 2,5,36.125,Yes,No,No,"Some college,  technical school or Associate Degree",51.2,45.5,78.75,73.16666667,No,5.770616994,13.8902825,205.6834033,26.6727633,66
+194,Stage 1,1,0,Yes,No,No,Postgraduate school or degree,52.2,45.5,48.125,75.25,No,7.480291908,15.72684151,316.2867422,26.00438276,49
+195,Stage 3,2,0,Yes,No,Yes,Graduated from  high school or G.E.D.,54.3,63.3,30.625,53.91666667,Yes,6.084280236,16.85089251,232.1617456,32.28305785,62
+196,Stage 1,5,87.75,No,No,Yes,Graduated from college (Bachelor's),42.9,30,70,90.375,No,5.439677247,13.35942656,405.0741163,25.390625,65
+197,Stage 2,2,0,No,Yes,No,Graduated from college (Bachelor's),54.3,55.1,88.75,92,Yes,6.654789807,15.90942563,309.3794029,26.52851035,76
+198,Stage 1,5,6,No,No,Yes,"Some college,  technical school or Associate Degree",44.2,51.6,88.125,69.33333333,Yes,6.280935344,15.36123978,348.5720938,33.16326531,66
+199,Stage 1,4,0,No,No,Yes,"Some college,  technical school or Associate Degree",51.2,47.3,68.75,62.79166667,Yes,6.341890447,15.75457754,203.7260575,33.30612245,58
+200,Stage 3,6,25.5,Yes,Yes,No,Graduated from college (Bachelor's),61.5,60.3,30.625,29.25,No,6.771892791,15.71308881,218.2141748,24.21229339,50
+201,Stage 2,5,4.25,No,No,Yes,"Some college,  technical school or Associate Degree",52.2,48.9,61.25,68.79166667,Yes,6.798324052,15.67093242,142.8907546,19.49317739,79
+202,Stage 2,4,2,Yes,No,Yes,Postgraduate school or degree,53.3,48.9,40.625,21.125,No,6.894560852,15.29659794,171.2713401,24.28097534,70
+203,Stage 1,2,34,Yes,No,No,Graduated from  high school or G.E.D.,58.3,43.6,73.75,85.5,No,5.965768001,14.15424154,359.3914425,29.40759637,50
+204,Stage 1,2,57.375,Yes,No,No,Postgraduate school or degree,49,41.4,91.875,86.125,No,6.356942237,14.26859081,355.1819549,31.634582,62
+205,Stage 2,3,12.75,No,No,Yes,"Some college,  technical school or Associate Degree",46.7,38.7,75.625,84.5,Yes,6.989315964,16.20320254,93.59503391,31.04455807,51
+206,Stage 3,3,75,Yes,Yes,No,"Some college,  technical school or Associate Degree",61.5,59.3,69.375,82.625,Yes,6.391020156,14.96837377,316.1618134,25.01352082,42
+207,Stage 3,2,0,Yes,No,Yes,"Some college,  technical school or Associate Degree",47.9,45.5,46.25,56.16666667,No,7.109809218,15.00294736,319.4329897,24.9107674,54
+208,Stage 1,2,6,No,No,No,Graduated from  high school or G.E.D.,62.6,54,81.875,84.5,No,6.846565432,15.00260715,166.2398936,31.61177325,64
+209,Stage 1,6,38.125,Yes,No,No,"Some college,  technical school or Associate Degree",44.2,43.6,51.875,81.66666667,Yes,5.457378967,14.83038583,248.9006515,28.515625,46
+210,Stage 1,1,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",64.9,56.1,51.875,57.58333333,Yes,6.483994641,15.05018311,284.9850329,24.609375,62
+211,Stage 3,4,6,Yes,No,No,"Some college,  technical school or Associate Degree",46.7,38.7,87.5,92.75,No,6.062288776,16.9191687,465.9052056,28.71047932,43
+212,Stage 1,4,4.25,No,No,No,Postgraduate school or degree,57.3,55.1,63.75,72.875,Yes,5.979029239,13.3282495,234.5558499,26.81359045,85
+214,Stage 1,2,16.75,No,No,Yes,"Some college,  technical school or Associate Degree",47.9,45.5,67.5,86.5,Yes,6.123775383,15.24693407,143.0427875,27.70083102,64
+215,Stage 1,0,4.25,No,Yes,No,Graduated from college (Bachelor's),66.1,58.2,48.75,67.75,Yes,6.297285287,14.98193272,538.2307257,27.39817568,47
+216,Stage 1,1,150,No,No,Yes,Graduated from college (Bachelor's),49,47.3,67.5,58.83333333,Yes,6.268563349,14.61232977,242.8464792,31.8877551,57
+217,Stage 3,4,0,No,No,Yes,"Some college,  technical school or Associate Degree",63.7,59.3,41.25,46.875,Yes,6.294460131,14.87727095,293.2612027,29.0174472,44
+218,Stage 2,2,4,No,No,No,Postgraduate school or degree,46.7,38.7,86.25,94.25,No,5.387060163,14.19741015,771.0210873,29.00059488,71
+219,Stage 1,3,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",61.5,30,59.375,69.04166667,Yes,6.411741488,15.77602876,154.4369301,35.79604579,41
+220,Stage 2,4,2,No,Yes,Yes,Postgraduate school or degree,56.3,47.3,72.5,87.75,No,6.082499114,14.36601268,533.2838366,35.20430363,50
+221,Stage 1,5,0,No,No,Yes,8th grade or less,58.3,52.9,28.75,35.25,Yes,6.336510851,16.51006761,176.5449167,23.30668005,55
+223,Stage 3,2,23.375,No,No,No,"Some college,  technical school or Associate Degree",35.9,30,86.25,98.75,No,6.09155078,14.63501391,397.1748994,33.24787694,66
+224,Stage 1,0,0,No,No,Yes,Postgraduate school or degree,52.2,52.9,73.125,70.875,Yes,6.136894894,16.57265759,142.248645,31.19509484,62
+225,Stage 2,0,2,Yes,No,Yes,"Some college,  technical school or Associate Degree",44.2,43.6,67.5,91.75,No,5.734485284,15.12518507,166.4020701,25.68370987,44
+226,Stage 1,6,0,No,Yes,No,Graduated from college (Bachelor's),64.9,59.3,69.375,60.58333333,Yes,6.689230973,15.86183989,270.2888586,18.8267935,60
+227,Stage 1,4,42.75,Yes,No,No,"Some college,  technical school or Associate Degree",38,35.1,88.75,95,Yes,5.899831715,14.41897355,294.0096187,23.62028791,46
+228,Stage 2,6,25.5,Yes,No,No,"Some college,  technical school or Associate Degree",44.2,43.6,94.375,89.375,No,5.403515059,17.7902193,420.2170686,22.03856749,69
+229,Stage 1,2,0,No,No,Yes,Graduated from  high school or G.E.D.,52.2,43.6,84.375,64.41666667,Yes,6.440927276,15.10797072,264.246095,23.95122659,38
+230,Stage 2,2,0,No,No,No,Postgraduate school or degree,52.2,45.5,29.375,70.5,Yes,5.967074296,14.51052976,235.9821086,26.29757785,73
+231,Stage 2,5,4,No,No,No,Postgraduate school or degree,47.9,38.7,90.625,81.16666667,No,5.775372285,15.02494993,240.5160113,18.11541271,66
+232,Stage 2,3,61.75,No,No,No,Postgraduate school or degree,28.9,35.1,49.375,84.5,Yes,5.999293066,15.01114444,112.9400057,27.00513097,55
+233,Stage 2,5,12.75,No,No,No,Graduated from college (Bachelor's),54.3,45.5,91.875,88.75,No,5.989976523,13.38767833,358.2522401,34.89439853,64
+234,Stage 1,2,2,Yes,No,Yes,Postgraduate school or degree,41.4,51.6,81.25,82,Yes,6.337238773,14.38309776,245.2371047,32,50
+235,Stage 1,3,6,No,Yes,Yes,Postgraduate school or degree,60.4,47.3,88.125,79.375,No,5.743842319,15.06853065,255.6441649,26.19618735,53
+236,Stage 1,3,4,No,No,No,Postgraduate school or degree,55.3,52.9,47.5,43,Yes,4.469451497,14.21075229,267.7526914,22.49134948,50
+237,Stage 1,5,0,No,No,No,Postgraduate school or degree,35.9,30,65.625,91.125,No,5.483165897,13.49349851,334.3228862,29.32098765,68
+238,Stage 3,0,2,Yes,No,Yes,"Some college,  technical school or Associate Degree",49,41.4,81.875,80.25,Yes,6.07067376,14.78697724,443.4200276,36.26403302,57
+239,Stage 1,3,34,Yes,No,No,"Some college,  technical school or Associate Degree",46.7,38.7,61.25,83.875,Yes,5.730657652,16.11288647,365.3736714,24.30461788,62
+240,Stage 3,4,0,No,Yes,Yes,Postgraduate school or degree,58.3,54,81.875,67.875,Yes,5.955595383,14.02555333,244.0826072,23.046875,64
+241,Stage 3,2,0,No,No,No,Graduated from college (Bachelor's),28.9,30,94.375,91.375,No,6.064910006,16.72536783,195.7914013,24.31412397,70
+242,Stage 2,4,12.75,No,No,Yes,"Some college,  technical school or Associate Degree",45.5,56.1,48.125,65.16666667,Yes,5.898610746,15.07231268,291.6552746,30.48668503,48
+243,Stage 1,2,360,Yes,No,No,"Some college,  technical school or Associate Degree",33.1,30,78.125,70.91666667,Yes,5.898309974,13.40223726,129.1525061,28.39372634,77
+244,Stage 3,5,0,No,No,No,Postgraduate school or degree,45.5,35.1,83.75,94.25,Yes,6.454377221,14.98064793,461.8826206,24.22145329,54
+245,Stage 1,4,0,No,No,No,Postgraduate school or degree,46.7,47.3,73.75,71.5,No,6.553590666,16.72796365,252.705764,25.80645161,56
+246,Stage 2,2,4,Yes,Yes,No,Graduated from college (Bachelor's),55.3,47.3,77.5,80,No,6.719030313,16.37111531,243.2436029,27.18163009,54
+247,Stage 1,4,0,Yes,Yes,No,Completed some high school but did not graduate,73,54,29.375,62.41666667,Yes,6.740291041,17.13992301,165.4565424,24.44180209,75
+248,Stage 3,2,2,Yes,No,No,"Some college,  technical school or Associate Degree",47.9,41.4,71.25,78.875,No,7.105939156,16.53706156,221.2218124,24.89706023,64
+250,Stage 2,0,12.75,Yes,No,No,Graduated from college (Bachelor's),47.9,35.1,81.875,87.25,Yes,6.572790495,15.66562744,186.891715,40.90065778,48
+251,Stage 3,1,2,Yes,No,No,Postgraduate school or degree,35.9,38.7,92.5,94,No,6.384988648,16.42462968,309.2624962,25.03991871,62
+252,Stage 3,3,12.75,Yes,No,Yes,"Some college,  technical school or Associate Degree",55.3,50.3,56.25,54.54166667,No,5.960860417,16.36106605,203.5957714,26.86120692,56
+253,Stage 2,5,14.75,Yes,No,No,"Some college,  technical school or Associate Degree",42.9,43.6,57.5,78.375,No,6.222594967,13.69799069,199.1966146,25.2493372,56
+254,Stage 1,3,44.75,No,No,No,Graduated from college (Bachelor's),44.2,30,93.125,95.5,No,6.697744312,14.18104512,491.7505501,22.83737024,47
+255,Stage 1,5,141.125,Yes,No,Yes,"Some college,  technical school or Associate Degree",49,48.9,75.625,69.66666667,Yes,5.945078095,14.74873997,178.904705,25.20920136,47
+256,Stage 2,1,0,Yes,No,No,Postgraduate school or degree,28.9,30,85,98,No,5.576940385,15.17690454,422.2032534,29.55254943,55
+257,Stage 2,2,0,Yes,Yes,Yes,Postgraduate school or degree,61.5,67.3,64.375,32.875,No,6.396931575,13.80035098,161.678234,25.25951557,52
+258,Stage 1,2,0,Yes,No,Yes,Graduated from college (Bachelor's),49,43.6,80.625,85.5,Yes,5.845901987,14.1340175,493.5389222,21.13885586,67
+259,Stage 3,3,150,Yes,No,No,Graduated from college (Bachelor's),59.4,58.2,58.75,46.5,Yes,5.692294646,14.50462989,272.7444113,26.44628099,63
+260,Stage 3,0,10.5,Yes,No,Yes,"Some college,  technical school or Associate Degree",42.9,41.4,84.375,84.25,Yes,7.118656191,16.66449577,230.2879025,28.40111108,55
+261,Stage 1,6,81.25,Yes,No,Yes,Graduated from  high school or G.E.D.,47.9,30,84.375,90.25,No,6.400311229,14.1632642,204.3606805,26.2226847,72
+262,Stage 1,0,0,Yes,No,Yes,Postgraduate school or degree,46.7,51.6,66.25,82.875,Yes,6.358930909,15.65451243,157.1781323,26.14268848,66
+264,Stage 1,0,38.25,No,No,No,Postgraduate school or degree,33.1,30,91.875,97.5,No,6.306838857,14.76119163,170.7844785,22.10028959,62
+265,Stage 2,6,0,No,Yes,No,Postgraduate school or degree,58.3,48.9,80,82,No,5.017889415,13.31886304,467.4551835,32.40740741,62
+266,Stage 1,3,14.75,No,No,Yes,Postgraduate school or degree,47.9,47.3,61.25,68.375,Yes,6.504121332,14.91075088,382.7405208,35.55555556,51
+267,Stage 1,4,2,No,No,Yes,Graduated from college (Bachelor's),52.2,56.1,68.125,80.375,No,5.960458102,13.56570128,258.4197264,29.41073492,62
+268,Stage 2,5,25.5,No,No,No,"Some college,  technical school or Associate Degree",52.2,54,36.875,37.25,No,6.262246471,15.4633771,408.1302402,24.67702134,54
+269,Stage 2,4,30,No,No,No,"Some college,  technical school or Associate Degree",59.4,43.6,45,66.75,Yes,6.825474701,15.34373709,351.1248861,28.69897959,64
+270,Stage 2,5,0,Yes,No,No,"Some college,  technical school or Associate Degree",53.3,55.1,76.25,91.75,No,6.306713285,15.38029715,141.2890548,22.0603538,49
+271,Stage 1,5,0,Yes,No,Yes,"Some college,  technical school or Associate Degree",46.7,50.3,51.875,71.66666667,Yes,6.379607878,13.75385057,257.2264221,25.90945695,51
+272,Stage 2,5,0,Yes,No,No,"Some college,  technical school or Associate Degree",41.4,38.7,87.5,84,No,6.413883008,14.51997412,317.6461117,26.12244898,49
+273,Stage 1,1,0,No,Yes,No,8th grade or less,61.5,54,53.75,53.625,Yes,5.496697747,13.0140205,500.1878745,37.04474506,48
+275,Stage 2,2,4,No,No,No,"Some college,  technical school or Associate Degree",55.3,51.6,75.625,76,No,7.179339653,14.66942411,203.7443869,26.25958475,38
+276,Stage 2,1,21,Yes,Yes,Yes,Graduated from college (Bachelor's),57.3,43.6,68.125,86.75,Yes,5.902369152,14.42342848,482.8449061,28.22838647,52
+277,Stage 2,4,10.5,Yes,No,No,Postgraduate school or degree,50.1,41.4,56.25,91.75,No,6.199286309,15.58226071,289.2904135,31.62421994,67
+278,Stage 2,2,0,No,Yes,Yes,"Some college,  technical school or Associate Degree",57.3,56.1,43.125,46.70833333,Yes,6.126534816,15.44616421,201.801564,25.88057064,56
+279,Stage 3,6,0,No,No,No,"Some college,  technical school or Associate Degree",49,43.6,70,88.5,No,5.326374096,14.60943672,302.6216867,25.95155709,56
+280,Stage 3,5,4.25,No,Yes,No,Graduated from college (Bachelor's),61.5,58.2,84.375,76.54166667,No,7.124140607,14.6701685,171.8822443,23.24340802,53
+281,Stage 2,6,0,Yes,No,Yes,Graduated from  high school or G.E.D.,51.2,43.6,58.125,69,Yes,6.064502126,14.2107829,169.7317937,26.36560303,49
+282,Stage 1,1,0,No,Yes,Yes,Graduated from  high school or G.E.D.,53.3,59.3,37.5,31.875,Yes,6.556506846,13.49304224,246.1279232,24.08822312,57
+283,Stage 1,4,2,Yes,No,No,"Some college,  technical school or Associate Degree",55.3,63.3,48.125,66.875,No,6.789009915,14.73699679,247.4059656,27.88518739,51
+285,Stage 1,5,8.25,No,No,No,"Some college,  technical school or Associate Degree",53.3,52.9,59.375,73.125,No,6.535226169,15.40236129,166.4134341,31.63739669,50
+286,Stage 2,0,32,Yes,No,No,"Some college,  technical school or Associate Degree",38,35.1,76.875,78.04166667,Yes,5.878586559,15.2832778,259.8131291,25.29937595,52
+287,Stage 3,6,0,No,No,Yes,"Some college,  technical school or Associate Degree",57.3,70.7,55.625,59.20833333,No,6.395559993,14.54496889,409.8367799,33.69493754,48
+288,Stage 2,5,38.125,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",64.9,54,63.75,74.25,Yes,6.171803973,14.94288508,251.7325021,30.04081633,61
+289,Stage 2,0,0,Yes,No,Yes,"Some college,  technical school or Associate Degree",35.9,35.1,45.625,62.95833333,Yes,6.275212507,15.61731411,288.6392136,27.09925101,56
+290,Stage 2,2,0,No,No,Yes,"Some college,  technical school or Associate Degree",50.1,48.9,76.875,62.41666667,Yes,5.765199508,14.01756562,168.8820723,25.20808561,70
+291,Stage 1,5,0,Yes,No,No,Postgraduate school or degree,55.3,56.1,44.375,72.79166667,Yes,6.290206041,15.29671694,438.2127285,28.68514468,48
+292,Stage 1,5,75,No,No,No,Postgraduate school or degree,47.9,47.3,86.875,98.75,Yes,5.035401364,13.44808807,451.5238976,23.87511478,64
+293,Stage 2,0,36.125,Yes,No,No,Graduated from college (Bachelor's),45.5,38.7,83.125,85.375,No,6.193799176,14.2713131,406.4855905,22.30814991,76
+294,Stage 3,6,27.625,Yes,No,No,"Some college,  technical school or Associate Degree",44.2,30,82.5,94.25,No,5.96532445,14.70338086,356.7573911,32.46191136,76
+295,Stage 3,4,0,Yes,No,Yes,Graduated from  high school or G.E.D.,35.9,45.5,42.5,80.125,Yes,5.662052015,15.43872063,341.1750865,31.55555556,55
+297,Stage 2,6,27.5,No,No,No,Postgraduate school or degree,44.2,30,95.625,92.25,No,5.982856307,12.89612582,343.7445866,25.390625,60
+298,Stage 2,3,0,Yes,Yes,Yes,Graduated from college (Bachelor's),57.3,52.9,28.125,44,Yes,5.975911302,17.06708082,275.8705096,28.56648199,55
+299,Stage 1,2,6,Yes,No,No,Postgraduate school or degree,38,35.1,36.875,65.04166667,Yes,6.484690863,13.91460284,225.1230876,22.65625,75
+300,Stage 1,2,32,No,No,No,"Some college,  technical school or Associate Degree",46.7,47.3,44.375,85.5,Yes,5.301761724,15.68287096,283.4975602,28.90625,73
+301,Stage 1,0,42.75,Yes,No,No,Graduated from college (Bachelor's),44.2,30,86.875,94.25,Yes,6.468448845,15.93790335,160.7701885,27.734375,46
+302,Stage 2,1,0,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",64.9,50.3,62.5,72.83333333,No,6.662539812,16.45987848,196.7254065,23.66524436,49
+303,Stage 3,5,87.75,Yes,Yes,No,"Some college,  technical school or Associate Degree",47.9,51.6,51.25,81.625,Yes,5.574334664,12.84585272,452.7014146,28.3530572,71
+304,Stage 1,1,77,No,No,No,Postgraduate school or degree,44.2,35.1,46.25,64.875,Yes,4.935830374,12.98415852,76.99965818,30.73941662,55
+305,Stage 1,6,2,Yes,No,No,Postgraduate school or degree,38,35.1,94.375,93.25,No,5.870470556,13.93854259,452.8812435,28.73174689,51
+306,Stage 1,4,12.75,Yes,No,No,Graduated from college (Bachelor's),41.4,38.7,88.125,92,No,6.084709268,14.55640951,254.1556597,27.00513097,70
+307,Stage 1,3,4,Yes,Yes,Yes,Postgraduate school or degree,49,58.2,58.75,28.625,No,6.125719457,15.61267469,304.6478127,24.03460984,56
+308,Stage 2,3,6,No,No,Yes,"Some college,  technical school or Associate Degree",50.1,52.9,37.5,65.25,Yes,6.14791188,15.19276826,133.2817214,26.12244898,50
+309,Stage 3,4,12.75,No,Yes,No,Graduated from college (Bachelor's),58.3,57.2,86.25,93,Yes,5.48572901,13.89252718,303.7318151,26.14268848,56
+310,Stage 1,3,19,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",53.3,52.9,53.75,32.375,No,6.516656124,13.84630613,212.0127155,30.22222222,67
+312,Stage 2,4,4,No,No,No,"Some college,  technical school or Associate Degree",53.3,43.6,61.875,79.25,Yes,6.247500116,14.8089756,230.7345579,31.21748179,67
+313,Stage 3,0,19,No,Yes,Yes,"Some college,  technical school or Associate Degree",57.3,63.3,21.875,17.25,Yes,6.140062567,15.8465866,242.1030796,27.21730295,58
+314,Stage 2,5,540,Yes,No,No,Graduated from college (Bachelor's),51.2,47.3,45.625,77.5,Yes,5.915160002,14.62976193,197.713095,25.79591837,53
+315,Stage 1,3,12.75,No,No,No,"Some college,  technical school or Associate Degree",44.2,43.6,95.625,95.25,No,6.301681278,14.57282524,312.4598527,28.07504294,57
+316,Stage 1,1,0,Yes,No,No,"Some college,  technical school or Associate Degree",55.3,41.4,75,90.5,Yes,6.483233905,16.73749779,117.347042,31.24876389,59
+317,Stage 1,5,0,No,Yes,Yes,"Some college,  technical school or Associate Degree",53.3,57.2,42.5,79.25,Yes,6.201096913,15.10542893,165.869622,22.85714286,64
+318,Stage 2,5,4,No,No,Yes,Postgraduate school or degree,54.3,52.9,69.375,42.08333333,Yes,6.674645592,15.26023115,246.0993567,20.77562327,62
+319,Stage 1,4,32,Yes,Yes,No,Graduated from college (Bachelor's),51.2,47.3,51.875,76,Yes,5.187228242,14.62956155,172.7420014,23.71184463,42
+320,Stage 2,3,25.375,No,Yes,Yes,Graduated from college (Bachelor's),66.1,62.3,38.125,60.04166667,Yes,5.891921832,13.92103883,300.6539666,33.80205516,30
+321,Stage 1,4,14.75,No,Yes,Yes,Graduated from college (Bachelor's),54.3,54,68.75,50.58333333,No,6.140661462,17.58387548,263.5583105,29.76190476,58
+322,Stage 1,3,21.25,Yes,No,No,Postgraduate school or degree,42.9,35.1,85,87.375,Yes,5.741495676,15.47910511,177.6866878,27.70083102,55
+323,Stage 1,2,0,No,No,No,Graduated from college (Bachelor's),28.9,38.7,85.625,78.5,Yes,6.468570511,16.90945623,55.13630573,30.078125,48
+324,Stage 2,5,38.25,Yes,Yes,Yes,"Some college,  technical school or Associate Degree",61.5,55.1,67.5,53.20833333,Yes,6.376313908,15.23244743,231.9157494,35.5998576,57
+325,Stage 1,4,48.875,Yes,No,Yes,"Some college,  technical school or Associate Degree",38,41.4,65.625,84.75,No,5.852825167,12.64083356,370.1606684,29.41176471,56
